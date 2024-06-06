@@ -1,5 +1,5 @@
 # Hi there 👋
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fukemy&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fukemy&show_icons=true&theme=ambient_gradient)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fukemy&layout=compact)
 <!--
 **fukemy/fukemy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
